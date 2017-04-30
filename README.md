@@ -1,3 +1,8 @@
+---
+title: Doing Research
+layout: post
+---
+
 # Resources on doing good research
 
 ## Writing papers
